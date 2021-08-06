@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.each-matchcard {
+  width: 30%;
+  height: 300px;
+  padding: 15px;
+  margin: 10px;
+  background-color: #1e293b;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.opp-image {
+  width: 50px;
+  height: 50px;
+}
+.main-mat-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.result-des {
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+}
+.status-win {
+  color: #18ed66;
+  font-size: 15px;
+  font-weight: bold;
+}
+.status-lose {
+  color: #e31a1a;
+  font-size: 15px;
+  font-weight: bold;
+}

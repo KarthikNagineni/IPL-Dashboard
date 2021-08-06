@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.main-latest-cont {
+  width: 100%;
+  background-color: #1e293b;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.latest-main-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.top-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.content-cont {
+  width: 50%;
+}
+.date-sty {
+  color: #ffffff;
+  font-size: 18px;
+}
+.all-details {
+  color: #ffffff;
+  font-size: 15px;
+}
+.opp-team-image {
+  width: 200px;
+  height: 200px;
+  align-self: center;
+}

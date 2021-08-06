@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.main-teammatch-cont {
+  height: 100vh;
+  background-color: #a4261d;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Bree Serif';
+  overflow-y: scroll;
+}
+.main-teammatch-cont-rcb {
+  background-color: #a4261d;
+}
+.main-teammatch-cont-kkr {
+  background-color: #5755a7;
+}
+.main-teammatch-cont-kp {
+  background-color: #d91c1f;
+}
+.main-teammatch-cont-csk {
+  background-color: #f7db00;
+}
+.main-teammatch-cont-rr {
+  background-color: #da237b;
+}
+.main-teammatch-cont-mi {
+  background-color: #4f5db0;
+}
+.main-teammatch-cont-srh {
+  background-color: #f26d22;
+}
+.main-teammatch-cont-dc {
+  background-color: #13418b;
+}
+
+.banner-image-cont {
+  width: 100%;
+  height: 45vh;
+  margin: 10px;
+}
+.banner-image {
+  width: 100%;
+  height: 100%;
+}
+.teammatch-name {
+  color: #ffffff;
+  font-size: 25px;
+  margin-bottom: 15px;
+  align-self: flex-start;
+}
+.main-matchcard {
+  width: 100%;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
